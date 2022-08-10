@@ -1,0 +1,24 @@
+.container{
+  align-items: center;
+  display: inline-block;
+  padding: 15px;
+  position: relative;
+}
+.container input{
+  position: absolute;
+  left: 44.5%;
+  top: 44.4%;
+  height: 110px;
+  width: 110px;
+  border-radius: 49px;
+  border-color: gray;
+  background-color: gray;
+}
+.container input:active{
+  background-color: white;
+}
+.welcome-pokeball{
+  height: 80%;
+  width: 80%;
+  margin: auto;
+}
